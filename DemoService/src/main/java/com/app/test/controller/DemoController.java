@@ -17,7 +17,7 @@ public class DemoController {
 	
 	@GetMapping("/address")
 	public String getAddress() {
-		return "India !";
+	return "India !";
 
 }
 	@GetMapping("/status")
